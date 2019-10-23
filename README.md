@@ -1,2 +1,2 @@
 # WoW
-Prjecet LUA
+Projecet LUA
